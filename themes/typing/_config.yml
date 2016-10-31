@@ -1,0 +1,37 @@
+# Lang
+language: en
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+rss: /atom.xml
+
+# Content
+fancybox: true
+
+
+# Miscellaneous
+google_analytics: UA-86596614-1
+favicon: /favicon.ico
+twitter: donmafelstroh
+google_plus:
+fb_admins:
+fb_app_id:
+disqus_shortname: manuelfelipe
+
+
+# Profile
+nickname: "@donmafelstroh"
+description: Senior Software Engineer
+links:
+  Blog: /archives
+  GitHub: https://github.com/mafelstroh
+  LinkedIn: https://co.linkedin.com/in/mafelstroh
+  Laracasts: https://laracasts.com/@mafelstroh
+  About: /about
+
+# Info
+archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Archive
+post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Post

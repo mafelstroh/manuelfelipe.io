@@ -68,6 +68,10 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: typing 
 
+# Admin
+admin:
+  deployCommand: './hexo-deploy.sh'
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

@@ -4,7 +4,7 @@ language: en
 # Header
 menu:
   Home: /
-  Archives: /archives
+#  Archives: /archives
   About: /about
 rss: /atom.xml
 
@@ -26,7 +26,7 @@ disqus_shortname: manuelfelipe
 nickname: "@donmafelstroh"
 description: Senior Software Engineer
 links:
-  Blog: /archives
+#  Blog: /archives
   GitHub: https://github.com/mafelstroh
   LinkedIn: https://co.linkedin.com/in/mafelstroh
   Laracasts: https://laracasts.com/@mafelstroh

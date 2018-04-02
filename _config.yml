@@ -78,4 +78,4 @@ deploy:
   type: git
   repo: https://github.com/mafelstroh/manuelfelipe.io.git
   branch: gh-pages
-  message: "mafelstroh.io updated @ {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "Deploy CMD: mafelstroh.io updated @ {{ now('YYYY-MM-DD HH:mm:ss') }}"

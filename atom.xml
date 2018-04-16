@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Manuel Felipe Stroh</title>
+  
+  <subtitle>Manuel Felipe Stroh</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://manuelfelipe.io/"/>
+  <updated>2018-04-02T17:09:43.886Z</updated>
+  <id>http://manuelfelipe.io/</id>
+  
+  <author>
+    <name>Manuel Felipe Stroh</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Starting a blog...</title>
+    <link href="http://manuelfelipe.io/2016/10/27/My-New-Post/"/>
+    <id>http://manuelfelipe.io/2016/10/27/My-New-Post/</id>
+    <published>2016-10-27T20:41:00.000Z</published>
+    <updated>2018-04-02T17:09:43.886Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="This-has-just-started…"><a href="#This-has-just-started…" class="headerlink" title="This has just started…"></a>This has just started…</h1><p>This blog is about interesting tech articles. It just got started by using primarly <a href="https://hexo.io" title="A fast, simple &amp; powerful blog framework" target="_blank" rel="noopener">Hexo</a>, among other technologies.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;This-has-just-started…&quot;&gt;&lt;a href=&quot;#This-has-just-started…&quot; class=&quot;headerlink&quot; title=&quot;This has just started…&quot;&gt;&lt;/a&gt;This has just starte
+      
+    
+    </summary>
+    
+      <category term="Technology" scheme="http://manuelfelipe.io/categories/Technology/"/>
+    
+    
+      <category term="hexo" scheme="http://manuelfelipe.io/tags/hexo/"/>
+    
+      <category term="blogging" scheme="http://manuelfelipe.io/tags/blogging/"/>
+    
+      <category term="tech" scheme="http://manuelfelipe.io/tags/tech/"/>
+    
+  </entry>
+  
+</feed>
